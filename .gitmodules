@@ -1,0 +1,9 @@
+[submodule "firmware/lib/Adafruit_MPU6050"]
+	path = firmware/lib/Adafruit_MPU6050
+	url = https://github.com/adafruit/Adafruit_MPU6050.git
+[submodule "firmware/lib/Adafruit_BusIO_"]
+	path = firmware/lib/Adafruit_BusIO_
+	url = https://github.com/adafruit/Adafruit_BusIO
+[submodule "firmware/lib/Adafruit_Unified_Sensor"]
+	path = firmware/lib/Adafruit_Unified_Sensor
+	url = https://github.com/adafruit/Adafruit_BusIO
