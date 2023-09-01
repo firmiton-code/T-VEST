@@ -7,3 +7,15 @@
 [submodule "firmware/lib/Adafruit_Sensor"]
 	path = firmware/lib/Adafruit_Sensor
 	url = https://github.com/adafruit/Adafruit_Sensor
+[submodule "firmware/lib/AsyncTCP"]
+	path = firmware/lib/AsyncTCP
+	url = https://github.com/me-no-dev/AsyncTCP.git
+[submodule "firmware/lib/ESPAsyncWebserver"]
+	path = firmware/lib/ESPAsyncWebserver
+	url = https://github.com/me-no-dev/ESPAsyncWebServer
+[submodule "firmware/lib/NTPClient"]
+	path = firmware/lib/NTPClient
+	url = https://github.com/aliffathoni/NTPClient
+[submodule "firmware/lib/Firebase"]
+	path = firmware/lib/Firebase
+	url = https://github.com/mobizt/Firebase-ESP32.git
