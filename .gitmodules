@@ -19,3 +19,6 @@
 [submodule "firmware/lib/Firebase"]
 	path = firmware/lib/Firebase
 	url = https://github.com/mobizt/Firebase-ESP32.git
+[submodule "firmware/lib/TFT_eSPI"]
+	path = firmware/lib/TFT_eSPI
+	url = https://github.com/Bodmer/TFT_eSPI.git
