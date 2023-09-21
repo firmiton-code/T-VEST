@@ -22,3 +22,6 @@
 [submodule "firmware/lib/TFT_eSPI"]
 	path = firmware/lib/TFT_eSPI
 	url = https://github.com/Bodmer/TFT_eSPI.git
+[submodule "firmware/lib/TFT_eWidget"]
+	path = firmware/lib/TFT_eWidget
+	url = https://github.com/Bodmer/TFT_eWidget.git
